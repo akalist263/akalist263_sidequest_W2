@@ -1,12 +1,12 @@
 ## Project Title
 
-GBDA302 Week 2 Example 3: Platforms (AABB Collisions)
+Sidequest 2
 
 ---
 
 ## Authors
 
-Karen Cochrane and David Han
+Allison Kalist / akalist / 21070062
 
 ---
 
@@ -16,13 +16,9 @@ Adds several rectangular platforms. The blob is drawn as a noisy circle but coll
 
 ---
 
-## Learning Goals
+## Setup and Interaction Instructions
 
-Learning Goals:
-
-- Convert a circular sprite to an AABB for collision
-- Implement overlap test and push-out resolution
-- Manage grounded state only when landing on top faces
+How to play the game
 
 ---
 
@@ -34,6 +30,7 @@ N/A
 
 ## GenAI
 
-The code was written by Dr. Karen Cochrane but she used GenAI to write the comments.
+The original code was written by Dr. Karen Cochrane but she used GenAI to write the comments.
+Allison Kalist made the following adjustments:
 
 ---
