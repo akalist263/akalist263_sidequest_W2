@@ -14,6 +14,8 @@ Allison Kalist / akalist / 21070062
 
 Adds several rectangular platforms. The blob is drawn as a noisy circle but collides using a simple axis-aligned bounding box (AABB). X and Y are resolved separately to keep behaviour predictable and teachable.
 
+ADDED --> Changed visual properties (number of points, wobble, wobble frequency), breathing animation speed, horizontal and vertical velocities, colours (wobble, background, platforms, text).
+
 ---
 
 ## Assets
